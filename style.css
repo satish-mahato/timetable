@@ -1,0 +1,23 @@
+.group {
+  color: red;
+  background-color: yellowgreen;
+}
+#address {
+  background-color: blueviolet;
+}
+.div1 {
+  border: 1px solid red;
+  margin-bottom: 30px;
+}
+.div2 {
+  border: 5px solid green;
+  width: 150px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.div3 {
+  box-sizing: border-box;
+  border: 5px solid green;
+  width: 200px;
+  padding: 20px;
+}
